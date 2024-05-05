@@ -1,0 +1,78 @@
+                            /* Topo - Nav */
+
+
+
+
+
+
+
+header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background-color: #222;
+    position: fixed;
+    font-weight: bolder;
+
+    
+
+}
+
+
+
+                        /* Trabalhando com Hover */
+
+
+
+.link-apresentacao:hover{
+    color: red;
+}
+.link-idiomas:hover{
+    color: red;
+}
+.link-projetos:hover{
+    color: red;
+}
+.link-contato:hover{
+    color: red;
+}
+
+
+
+
+                     /* Voltando ao Padrão com Tags  */
+
+
+
+
+.div-top{
+
+    display: flex;
+    width: 40%;
+    height: 100%;
+    justify-content: space-around;
+    color: white;
+    
+    
+}
+
+.logo-apresentacao{
+
+    width: 30px;
+    height: 30px;
+}
+
+.link-apresentacao ,.link-projetos, .link-idiomas , .link-sobre, .link-contato{
+
+    display: flex;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    
+
+}

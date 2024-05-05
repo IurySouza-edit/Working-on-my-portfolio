@@ -1,0 +1,30 @@
+                /* CodeWars Review */
+
+
+#section-third-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    text-align: center;
+   }
+
+.codewars-box-text{
+
+    color: white;
+    font-weight: 900;
+    font-size: 30px;
+    
+}
+
+.js-page-box{
+
+    height: 600px;
+}
+
+.logo-codewars-section-third{
+
+    margin-top: 20px;
+}
+
+

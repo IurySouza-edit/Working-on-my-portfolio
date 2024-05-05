@@ -1,0 +1,88 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+html{
+
+    scroll-behavior: smooth;
+}
+
+
+                            /* Background - Body */
+
+
+body{
+    background-color: rgb(37, 33, 33);
+}
+
+
+
+
+                            /* Corpo */
+                            
+#section-first-page{
+    width: 100%;
+    /* background-color: white; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+.article-first-page{
+
+    /* background-color: red; */
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family:'Courier New', Courier, monospace;
+}
+
+.section-1-h1{
+
+    font-size: 60px;
+    margin-top: 50px;
+    height: 200px;
+}
+
+.section-1-p-1{
+    font-size: 20px;
+}
+
+.section-1-div-1{
+    margin-top: 20px;
+}
+
+.Iury-Anjel{
+
+    color: red;
+}
+
+.paragrafo-section-first{
+
+    margin-top: 5px;
+}
+
+
+
+.article-second-page{
+
+    width: 600px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.section-2-h2{
+
+    font-size: 40px;
+    height: 200px;
+    margin-top: 50px;
+}
+

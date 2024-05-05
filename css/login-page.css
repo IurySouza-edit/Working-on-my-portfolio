@@ -1,0 +1,97 @@
+.esqueceu-a-senha-section-second{
+
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.login-page-box{
+
+
+    border: solid;
+    width: 300px;
+    height: 400px;
+    font-weight: 900;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 110px;
+
+}
+
+.registrar-section-second{
+
+    cursor: pointer;
+    padding: 10px;
+    width: 150px;
+    color: white;
+    font-weight: 900;
+    border: none;
+    border-radius: 5px;
+    background-color: #42b72a;
+    margin-top: 10px;
+}
+
+.login-button-section-second{
+    font-weight: 100;
+    width: 260px;
+    height: 40px;
+    color: white;
+    background-color: rgb(94, 92, 248);
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+    margin-top: 10px;
+}
+
+.fakebook-section-second{
+
+    margin-top: 30px;
+    color: rgb(73, 73, 204);
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.esqueceu-a-senha-section-second{
+
+    color: rgb(74, 74, 197);
+    margin-top: 10px;
+
+}
+
+#mail-section-second, #pass-section-second{
+
+    border-radius: 5px 5px 5px;
+    border: solid 1px gray;
+    height: 40px;
+    width: 250px;
+    padding: 4px;
+    margin-top: 10px;
+    
+
+}
+
+.login-page-box-title{
+
+    font-size: 50px;
+}
+
+.loginpage-title{
+
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+#section-second-page{
+
+    width: 100%;
+     /* background-color: white;  */
+    display: flex;
+    height: 900px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    color: white;
+
+}
